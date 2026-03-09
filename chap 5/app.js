@@ -1,73 +1,86 @@
-// // Q1
+// Q1
 // let num1 = 3
 // let num2 = 5
 // let sum = num1 + num2 
 // document.write(`Sum of ${num1} and ${num2} is ${sum}`)
 // document.write("<br />")
 
-// // Q2 
-// // subtraction 
+// Q2 
+// subtraction 
 // sum = num1 + num2 
 // document.write(`Sum of ${num1} and ${num2} is ${sum}`)
 // document.write("<br />")
 
-// // multiplication 
+// multiplication 
 // sum = num1 - num2 
 // document.write(`Sum of ${num1} and ${num2} is ${sum}`)
 // document.write("<br />")
 
-// // division
+// division
 // sum = num1 / num2 
 // document.write(`Sum of ${num1} and ${num2} is ${sum}`)
 // document.write("<br />")
 
-// // modulus
+// modulus
 // sum = num1 % num2 
 // document.write(`Sum of ${num1} and ${num2} is ${sum}`)
 // document.write("<br />")
 
-// // Q3
-// // a 
+// Q3
+// a 
 // let num 
-// // b 
+
+// b 
 // document.write(`Value after variable declaration is: ${num}`)
 // document.write("<br />")
-// // c 
+
+// c 
 // num = 5
-// // d 
+
+// d 
 // document.write(`Initial value is: ${num}`)
 // document.write("<br />")
-// // e
+
+// e
 // num++
-// // f 
+
+// f 
 // document.write(`Value after increment is: ${num}`)
 // document.write("<br />")
-// // g 
+
+// g 
 // num = num + 7
-// // h 
+
+// h 
 // document.write(`Value after addition is: ${num}`)
 // document.write("<br />")
-// // i 
+
+// i 
 // --num 
-// // j 
+
+// j 
 // document.write(`Value after decrement is: ${num}`)
 // document.write("<br />")
-// // k 
+
+// k 
 // num = num % 3 
-// // l 
+
+// l 
 // document.write(`The remainder is: ${num}`)
 // document.write("<br />")
 
-// // Q4 
+// Q4 
 // let ticket = 600 
 // let fiveTickets = ticket * 5
 // document.write(`Total cost to buy 5 tickets to a movie is ${fiveTickets}PKR`)
 // document.write("<br />")
 
-// // Q5
+// Q5
 // document.write("<h2>Table of 4</h2>")
+
 // let four = 4 
 // let count = 1
+
 // document.write(`${four} x ${count} = ${four * count}`)
 // document.write("<br />")
 // count++
@@ -98,7 +111,7 @@
 // document.write(`${four} x ${count} = ${four * count}`)
 // document.write("<br />")
 
-// //QUES 6
+//QUES 6
 // var Celsius=25
 // var Fahrenheit=70
 // var formula=(Celsius*9/5)+32
